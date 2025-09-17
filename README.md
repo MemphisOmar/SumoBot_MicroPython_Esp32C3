@@ -1,4 +1,7 @@
 # Robot Sumo - Controlador Difuso Sugeno
+![front](https://github.com/user-attachments/assets/d3f62e61-9933-4a0f-9f7d-7e5608566f05)
+![lateral](https://github.com/user-attachments/assets/3919ed10-c522-4b54-a2c0-51d253baeee5)
+
 
 Este proyecto implementa un controlador difuso tipo Sugeno para un robot sumo, utilizando sensores de distancia y sensores de piso para la toma de decisiones y control de motores.
 
