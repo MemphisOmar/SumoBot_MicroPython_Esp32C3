@@ -1,5 +1,6 @@
 # Robot Sumo - Controlador Difuso Sugeno
-![front](https://github.com/user-attachments/assets/d3f62e61-9933-4a0f-9f7d-7e5608566f05)
+![front](https://github.com/user-attachments/assets/0ce206fe-55a5-4391-affa-6796f10fd220)
+
 ![lateral](https://github.com/user-attachments/assets/3919ed10-c522-4b54-a2c0-51d253baeee5)
 
 
